@@ -4,7 +4,7 @@
         let button = document.getElementById("btn");
         button.onclick = () => document.getElementById('demo').innerHTML = Date();
     
-        alert(button.innerHTML);
+        //alert(button.innerHTML);
       });
 
 
