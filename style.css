@@ -1,5 +1,10 @@
 p {
     text-align: center;
-    color: rebeccapurple;
+    color: #00ff40;
     font-size: 35px;
+}
+P {   
+     text-align: start;
+color: chartreuse;
+    font-size: 200px;
 }
